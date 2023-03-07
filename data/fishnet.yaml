@@ -1,0 +1,22 @@
+is_coco: false
+names:
+- Albacore
+- Bigeye tuna
+- Blue marlin
+- Escolar
+- Great barracuda
+- Long snouted lancetfish
+- Mahi mahi
+- Opah
+- Shark
+- Shortbill spearfish
+- Skipjack tuna
+- Striped marlin
+- Swordfish
+- Tuna
+- Wahoo
+- Yellowfin tuna
+nc: 16
+test: /home/daffa911/Desktop/Karen/dataset-yolo/images/test
+train: /home/daffa911/Desktop/Karen/dataset-yolo/images/train
+val: /home/daffa911/Desktop/Karen/dataset-yolo/images/val
